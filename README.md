@@ -2,7 +2,7 @@
 
 > This project implements a Railway Signal Controller programmed in VHDL.
 
-This was made as the final project for [CS226 / CS254](https://www.cse.iitb.ac.in/~supratik/courses/cs226/index.html) - **Digital Logic Design + Lab** course in Spring 2018 at Indian Institute of Technology (IIT) Bombay, India. You may want to check out the [problem statement](/docs/presentation.pdf) for more details on this project.
+This was made as the final project for [CS226 / CS254](https://www.cse.iitb.ac.in/~supratik/courses/cs226/index.html) - **Digital Logic Design + Lab** course in Spring 2018 at Indian Institute of Technology (IIT) Bombay, India. You may want to check out the [problem statement](/docs/problem-statement.pdf) for more details on this project.
 
 ## Getting Started
 
